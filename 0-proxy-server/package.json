@@ -1,0 +1,16 @@
+{
+  "name": "proxy-server",
+  "version": "1.0.0",
+  "description": "Codepath Node.js PreWork http://courses.codepath.com/snippets/intro_to_nodejs/prework",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node  -- --optional strict --stage 1 --  index.js"
+  },
+  "author": "sgandhi",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.55.0",
+    "through": "^2.3.7",
+    "yargs": "^3.7.2"
+  }
+}
