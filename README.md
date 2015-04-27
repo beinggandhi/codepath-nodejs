@@ -14,7 +14,7 @@ Completed:
 - [ ] Optional: The --exec argument proxies stdin/stdout to/from the destination program
 - [ ] Optional: The --loglevel argument sets the logging chattiness
 - [ ] Optional: Supports HTTPS
-- [ ] Optional: -h argument prints CLI API
+- [x] Optional: -h argument prints CLI API
 
 # Home work 0
 
